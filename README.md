@@ -43,4 +43,4 @@ PATHFINDERS: A Personalized Counseling Application for Career Guidance (C# .NET 
 
 ## Contact:  
 **Email:** mirsini.kafetsi@gmail.com  
-**LinkedIn:** linkedin.com/in/myrsini-kafetsi  
+**LinkedIn:** [Myrsini Kafetsi](linkedin.com/in/myrsini-kafetsi)
